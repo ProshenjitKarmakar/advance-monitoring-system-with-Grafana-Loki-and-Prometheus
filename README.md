@@ -2,6 +2,7 @@
 
 ### Prerequisite
 - Basic Knowlege of Node.js and Express Framework
+- Basic to Intermediate knowledge in Docker and Containerization
 
 ### Installation and Setup
 #### 1. Prometheus Server
